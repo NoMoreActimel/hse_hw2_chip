@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/17GpRv62oer1UHD_D-PjlRrGWwsjsrvKP?usp=sh
 
 
 ### Статистика по выравниванию на 21-ю хромосому:
-<img width="800" alt="image" src="">
+<img width="800" alt="image" src="firefox_nVfKuEuZ6e.png">
 
 Процент выравниваний низкий, так как выравнивались только на одну хромосому человека.
 
