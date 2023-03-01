@@ -2,7 +2,7 @@
 
 
 Колаб: 
-https://colab.research.google.com/drive/1KOLEao0un7UH7sKUMmzhLYmHFQcTTFAR?usp=sharing
+https://colab.research.google.com/drive/17GpRv62oer1UHD_D-PjlRrGWwsjsrvKP?usp=sharing
 
 Выбрал клеточную линию DND-41, гистоновую клетку H4K20me1.
 
